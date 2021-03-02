@@ -1,0 +1,8 @@
+name: AnarchySay
+main: Bleepo3244.Bleepo
+version: 1.9
+description: A simple custom /say command for anarchy servers
+commands:
+  say:
+    description: /say command
+    usage: /<command> <message>

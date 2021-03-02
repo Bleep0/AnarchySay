@@ -1,0 +1,2 @@
+#The prefix is the prefix to the message, ex [example] <message>
+prefix: '&6[&dExample&6] &f{message}'
